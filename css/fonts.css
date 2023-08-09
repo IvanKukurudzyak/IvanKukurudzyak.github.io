@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'rroboto';
+    src: url(../fonts/AnyConv.com__Roboto-400.woff2) format('woff2'),
+        url(../fonts/AnyConv.com__Roboto-400.woff) format('woff'),
+        url(../fonts/Roboto-400.ttf) format('truetype');
+        font-weight: 400;
+        font-style: normal;
+        font-display: flex;
+}
+
+@font-face {
+    font-family: 'rmontserrat';
+    src: url(../fonts/AnyConv.com__Montserrat-Bold-700.woff2) format('woff2'),
+        url(../fonts/AnyConv.com__Montserrat-Bold-700.woff) format('woff'),
+        url(../fonts/Montserrat-Bold-700.ttf) format('truetype');
+        font-weight: 700;
+        font-style: normal;
+        font-display: flex;
+}
+
+@font-face {
+    font-family: 'rmontserrat';
+    src: url(../fonts/AnyConv.com__Montserrat-SemiBold-600.woff2.woff2) format('woff2'),
+        url(../fonts/AnyConv.com__Montserrat-SemiBold-600.woff) format('woff'),
+        url(../fonts/Montserrat-SemiBold-600.ttf) format('truetype');
+        font-weight: 600;
+        font-style: normal;
+        font-display: flex;
+}
+
+@font-face {
+    font-family: 'rmontserrat';
+    src: url(../fonts/AnyConv.com__Montserrat-Medium-500.woff2) format('woff2'),
+        url(../fonts/AnyConv.com__Montserrat-Medium-500.woff) format('woff'),
+        url(../fonts/Montserrat-Medium-500.ttf) format('truetype');
+        font-weight: 500;
+        font-style: normal;
+        font-display: flex;
+}
